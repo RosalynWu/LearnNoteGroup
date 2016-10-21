@@ -6,3 +6,10 @@
 
 ##创建项目
 1.
+
+
+```javascript
+document.getElementById('file')
+```
+
+>这是引用文段
