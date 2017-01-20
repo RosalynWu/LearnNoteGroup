@@ -1,4 +1,4 @@
-## how to solve the problem 'no CPU/ABI system image for target'
+## how to solve the problem 'no CPU/ABI system image for target'?
 ### 1.点击桌面上的【计算机】，然后点击弹出界面上方的【系统属性】，接着在【系统】面板中左键点选右下方的【更改设置】
 ### 2.在弹出的【系统属性】面板，在该面板中点击上方的【高级】，然后点击该界面下方的【环境变量】
 ### 3.在【XX用户变量】下方添加环境变量【ANDROID_SDK_HOME】,然后将变量值Android sdk的路径填好就可以了。
