@@ -20,6 +20,8 @@
 ```javascript
 document.getElementById('file')
 ```
+#### 当执行命令 "cordova build android"时，会提示说"could not find gradle wrapper within android sdk,might need to update your android sdk"的解决办法：
+##### Try to copy the templates directory of Android Studio: "C:\Program Files\Android\Android Studio\plugins\android\lib\templates" to your android sdk tools directory: "C:\Android\sdk\tools" This did the trick for me :)
 
 
 
